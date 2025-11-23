@@ -21,8 +21,8 @@ EMAIL_TO = "usuario1@test.com"
 EMAIL_FROM = "usuario2@test.com"
 SMTP_SERVER = "sandbox.smtp.mailtrap.io"
 SMTP_PORT = 2525
-SMTP_USER = "d97441d3657042"
-SMTP_PASS = "907b4609fcb763"
+SMTP_USER = "coloque_aqui_sua_credencial_username_mailtrap"
+SMTP_PASS = "coloque_aqui_sua_credencial_password_mailtrap"
 USE_AUTH = True
 CHAR_THRESHOLD = 20
 
@@ -176,4 +176,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
